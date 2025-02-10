@@ -19,5 +19,7 @@ npm install eslint --save-dev
 
 npx eslint --init
 ```
+```bash
+npm i eslint-plugin-simple-import-sort
+```
 
-Note - Try to do this before for better view
